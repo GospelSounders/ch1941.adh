@@ -18,7 +18,7 @@ It is required to:
 At least as far as the hymnals project this is concerned, this is but secondary. No need spending time on side issues.
 
 ## How to Proceed
-1. Detecting hymn boundaries on the different pages. Save on DB. 
+1. Detecting hymn boundaries on the different pages. Save in DB. 
 2. Detecting the hymnals header information
 3. Creating the indices
 4. Detecting/creating stanza and chorus boundaries
