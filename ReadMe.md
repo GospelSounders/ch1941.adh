@@ -21,3 +21,8 @@ At least as far as the hymnals project this is concerned, this is but secondary.
 1. Detecting hymn boundaries on the different pages.
 2. Detecting the hymnals header information
 3. Creating the indices
+4. Detecting/creating stanza and chorus boundaries
+5. Detecting lines
+6. Reading hyphenated line lyrics
+7. Removing hyphenation
+8. Putting stanzas together with 
