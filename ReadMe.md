@@ -19,4 +19,5 @@ At least as far as the hymnals project this is concerned, this is but secondary.
 
 ## How to Proceed
 1. Detecting hymn boundaries on the different pages.
-2. Detecting the hymnals data
+2. Detecting the hymnals header information
+3. Creating the indices
