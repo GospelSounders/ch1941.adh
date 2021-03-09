@@ -17,4 +17,5 @@ It is required to:
 ## Checking Tasks and Progress
 At least as far as the hymnals project this is concerned, this is but secondary. No need spending time on side issues.
 
-## 
+## How to Proceed
+1. 
