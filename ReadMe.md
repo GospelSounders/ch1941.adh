@@ -15,4 +15,4 @@ It is required to:
 11. Do likewise for the other hymnals
 
 ## Checking Tasks and Progress
-It would be well at any rate to start here...
+Atleast as far as this is concerned, this is but secondary. No need spending time on side issues.
