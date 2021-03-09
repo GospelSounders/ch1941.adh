@@ -13,3 +13,5 @@ It is required to:
 9. Make a software for projecting the songs (and for practising singing them)
 10. Put the music on youtube.
 11. Do likewise for the other hymnals
+
+## Checking Tasks and Progress
