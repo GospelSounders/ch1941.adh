@@ -18,4 +18,5 @@ It is required to:
 At least as far as the hymnals project this is concerned, this is but secondary. No need spending time on side issues.
 
 ## How to Proceed
-1. 
+1. Detecting hymn boundaries on the different pages.
+2. Detecting the hymnals data
