@@ -15,3 +15,4 @@ It is required to:
 11. Do likewise for the other hymnals
 
 ## Checking Tasks and Progress
+Putting progress on adventhymnals.org
