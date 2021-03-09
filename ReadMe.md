@@ -27,4 +27,4 @@ At least as far as the hymnals project this is concerned, this is but secondary.
 7. Removing hyphenation
 8. Putting stanzas together with lines
 9. Uploading to site
-10. 
+10. Creating music files (midi, mp3)
