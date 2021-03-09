@@ -25,4 +25,6 @@ At least as far as the hymnals project this is concerned, this is but secondary.
 5. Detecting lines
 6. Reading hyphenated line lyrics
 7. Removing hyphenation
-8. Putting stanzas together with 
+8. Putting stanzas together with lines
+9. Uploading to site
+10. 
